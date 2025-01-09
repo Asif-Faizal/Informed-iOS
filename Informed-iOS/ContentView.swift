@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Informed-iOS
-//
-//  Created by Innovitegra Solutions on 09/01/25.
-//
-
 import SwiftUI
 
 struct ContentView: View {
