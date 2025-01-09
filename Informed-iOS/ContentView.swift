@@ -1,14 +1,12 @@
 import SwiftUI
 
+import SwiftUI
+
 struct ContentView: View {
+    @StateObject private var viewModel = AppDependencyInjector.inject()
+    
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
+        NewsListView(viewModel: viewModel)
     }
 }
 
