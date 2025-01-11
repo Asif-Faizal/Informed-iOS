@@ -1,5 +1,5 @@
 # Informed-iOS
-Informed is a simple iOS app that allows users to view the latest news articles from various sources. The app follows the principles of Clean Architecture, ensuring that the code is modular, testable, and easy to maintain. Built using SwiftUI, Combine, and Swift, the app fetches news from an API and displays it in a user-friendly interface with custom themes.
+Informed is a simple iOS app that allows users to view the latest news articles from various sources. The app follows the principles of `Clean Architecture`, ensuring that the code is modular, testable, and easy to maintain. Built using `SwiftUI`, Combine, and Swift, the app fetches news from an API and displays it in a user-friendly interface with custom themes.
 
 ## Features
 * View the latest news articles from various sources.
@@ -12,6 +12,8 @@ Informed is a simple iOS app that allows users to view the latest news articles 
 * Presentation layer for UI-related tasks.
 
 ## Screenshots
+![Untitled design (4)](https://github.com/user-attachments/assets/56ceaaa9-fc9e-484e-a9c6-bc48c6dcb657)
+
 
 ## Architecture
 The app follows Clean Architecture, which divides the app into the following layers:
