@@ -1,5 +1,5 @@
-# NewsApp
-NewsApp is a simple iOS app that allows users to view the latest news articles from various sources. The app follows the principles of Clean Architecture, ensuring that the code is modular, testable, and easy to maintain. Built using SwiftUI, Combine, and Swift, the app fetches news from an API and displays it in a user-friendly interface with custom themes.
+# Informed-iOS
+Informed is a simple iOS app that allows users to view the latest news articles from various sources. The app follows the principles of Clean Architecture, ensuring that the code is modular, testable, and easy to maintain. Built using SwiftUI, Combine, and Swift, the app fetches news from an API and displays it in a user-friendly interface with custom themes.
 
 ## Features
 * View the latest news articles from various sources.
